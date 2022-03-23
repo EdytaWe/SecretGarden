@@ -21,6 +21,20 @@ body{
     background-color: rgba(0,0,0,0.6);
     z-index: -1;
 }
+.top-hero{
+    position: relative;
+    height: 200px;
+    background-size: cover;
+    z-index: 0;
+}
+.top-hero-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-size: 3.6rem;
+    text-transform: uppercase;
+}
 
 .color-green{
     color: #1fbd1f;
@@ -93,4 +107,15 @@ header{
 
 footer{
     padding: 15px 0;
+}
+
+.aboutus-hero{
+    background-image: url("../images/about/flowers.jpg");
+    background-position: center;
+}
+
+.aboutus-info-img{
+    background-position: center;
+    background-size: cover;
+    max-height: 700px;
 }
