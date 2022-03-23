@@ -81,3 +81,16 @@ header{
     background-position: center;
     height: 400px;
 }
+
+.home-history h3{
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.home-history p{
+    font-size: 1.6rem;
+}
+
+footer{
+    padding: 15px 0;
+}
