@@ -139,6 +139,23 @@ footer{
     background-size: cover;
 }
 
+
+
+.aboutus-icon{
+    font-size: 3rem;
+}
+.aboutus-card-title h3{
+    font-size: 2.2rem;
+    font-weight: bold;
+}
+.aboutus-card-green{
+    background-color: #1fbd1f;
+}
+
+.aboutus-card-container{
+    margin-bottom: 1.2rem;
+}
+
 @media (min-width: 992px){
     .aboutus-info .container{
         padding: 0;
