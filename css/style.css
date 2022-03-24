@@ -156,6 +156,12 @@ footer{
     margin-bottom: 1.2rem;
 }
 
+.services-hero{
+    background-image: url("../images/services/works.jpg");
+    background-position: center;
+}
+
+
 @media (min-width: 992px){
     .aboutus-info .container{
         padding: 0;
