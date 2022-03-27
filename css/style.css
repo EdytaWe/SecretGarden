@@ -194,6 +194,11 @@ footer{
     object-fit: cover;
 }
 
+.contact-hero{
+    background-image: url("../images/contact/contact.jpg");
+    background-position: center;
+}
+
 @media (min-width: 992px){
     .aboutus-info .container{
         padding: 0;
