@@ -185,7 +185,14 @@ footer{
     background-image: url("../images/services/4.jpg");
 }
 
-
+.projects-hero{
+    background-image: url("../images/projects/project.jpg");
+    background-position: center;
+}
+.projects img{
+    height: 300px;
+    object-fit: cover;
+}
 
 @media (min-width: 992px){
     .aboutus-info .container{
