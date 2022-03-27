@@ -160,6 +160,31 @@ footer{
     background-image: url("../images/services/works.jpg");
     background-position: center;
 }
+.service{
+    position: relative;
+    height: 300px;
+    z-index: 0;
+    font-size: 3rem;
+    background-size: cover;
+}
+.service p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.service-one{
+    background-image: url("../images/services/1.jpg");
+}
+.service-two{
+    background-image: url("../images/services/2.jpg");
+}
+.service-three{
+    background-image: url("../images/services/3.jpg");
+}
+.service-four{
+    background-image: url("../images/services/4.jpg");
+}
+
 
 
 @media (min-width: 992px){
