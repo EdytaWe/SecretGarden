@@ -227,7 +227,13 @@ footer{
     border: none;
     font-size: 1.4rem;
     padding: 7px 15px;
-
+}
+.contact-form input, .contact-form textarea{
+    font-size: 1.4rem;
+}
+.contact-map iframe{
+    min-height: 400px;
+    width: 100%;
 }
 
 @media (min-width: 992px){
